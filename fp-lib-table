@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/keebio/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "rp2040-zero")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/rp2040-zero")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/kleeb-master/mcu.pretty")(options "")(descr ""))
+)
