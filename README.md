@@ -2,6 +2,8 @@
 
 QAZISOKLEWTFBBQ is an idea for a keyboard by summerqm and haha from the 40s discord community. The layout is by summerqm & haha. Silkscreen is by Summerqm. Pcb design by me. Upcoming case is by _obabo.
 
+The project takes design cues from the amazing [qaz](https://cbkbd.bigcartel.com/product/qaz), [vault35](https://mechvault.net/products/vault-35-mini-keyboard) and [hull](https://trashman.wiki/en/cases/hull) boards.
+
 The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary encoder. This is a simple pcb design using the micro controller [rp2040-zero](https://www.waveshare.com/rp2040-zero.htm) that supports both throughhole and smd diodes.
 
 ## Layout
