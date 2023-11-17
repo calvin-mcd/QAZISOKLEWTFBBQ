@@ -18,7 +18,7 @@ The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary e
 
 _obabo is working on a custom case for this pcb. The pcb itself is meant to be used for a plateless build and supports both hull-style mounting as well as bottom mounting.
 
-check out _obabo's other amazing cases here: https://connellybruun.wixsite.com/portfolio/portfolio-collections/my-portfolio/mechanical-keyboard-designs
+check out _obabo's other amazing case designs here: https://github.com/m0110
   
 ## Todo
 
