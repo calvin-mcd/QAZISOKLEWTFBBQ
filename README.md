@@ -9,8 +9,6 @@ The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary e
 ## Layout
 
 ![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/KLE.png)
-![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/pcb_top.png)
-![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/pcb_bottom.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/4e032fd765729241acc9e978638f968c)
 
