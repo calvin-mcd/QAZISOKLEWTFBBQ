@@ -6,6 +6,8 @@ The project takes design cues from the amazing [qaz](https://cbkbd.bigcartel.com
 
 The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary encoder. This is a simple pcb design using the micro controller [rp2040-zero](https://www.waveshare.com/rp2040-zero.htm) that supports both throughhole and smd diodes.
 
+The pcb is designed to be used plateless and supports both hull-style and vault-like mounting.
+
 ## Layout
 
 ![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/KLE.png)
@@ -19,7 +21,7 @@ The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary e
 
 ## Case
 
-_obabo made rad little case for it. The case file is designed to use m2.5 heat-inserts and screws such as these:
+_obabo made rad little case for it which uses the hull-style mounting. The case file is designed to use m2.5 heat-inserts and screws such as these:
 
 https://www.mcmaster.com/94459A439/
 
