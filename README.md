@@ -14,9 +14,17 @@ The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary e
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/4e032fd765729241acc9e978638f968c)
 
+## Images
+![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/case.png)
+![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/pcb_top.png)
+![](https://github.com/calvin-mcd/QAZISOKLEWTFBBQ/blob/main/Images/pcb_bottom.png)
+
 ## Case
 
-_obabo is working on a custom case for this pcb. The pcb itself is meant to be used for a plateless build and supports both hull-style mounting as well as bottom mounting.
+_obabo made rad little case for it. The case file is designed to use m2.5 heat-inserts and screws such as these:
+
+https://www.mcmaster.com/94459A439/
+https://www.mcmaster.com/94500A213/
 
 check out _obabo's other amazing case designs here: https://github.com/m0110
   
