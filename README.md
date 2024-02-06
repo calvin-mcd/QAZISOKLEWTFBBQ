@@ -22,6 +22,7 @@ The board is a qaz-like pcb in hhkb-style that supports ISO enter & one rotary e
 _obabo made rad little case for it. The case file is designed to use m2.5 heat-inserts and screws such as these:
 
 https://www.mcmaster.com/94459A439/
+
 https://www.mcmaster.com/94500A213/
 
 check out _obabo's other amazing case designs here: https://github.com/m0110
